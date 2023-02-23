@@ -135,6 +135,7 @@ const Products = () => {
   };
 
   
+  
   /**
    * Definition for debounce handler
    * With debounce, this is the function to be called whenever the user types text in the searchbar field
